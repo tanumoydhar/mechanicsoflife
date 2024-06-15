@@ -1,6 +1,6 @@
 # Journey so far
 
-I am an applied mathematician by training and a statistical physicist in pursuit of my doctoral research on the role of active fluctuations, transport of passive colloids, and activity-driven colloidal assembly. I develop high-fidelity computational algorithms and continuum kinetic theories to study interactions between active (polar and nematic) and passive (rigid and deformable) entities. My current interests lie in the intersection of statistical physics, bifurcation theory and fluid dynamics.
+I am a mechanical engineer and an applied mathematician by training. I am currently pursuing my doctoral research on the role of active fluctuations, the directed assembly of passive particles, and elastohydrodynamic theories of active-nematics. I develop high-fidelity computational algorithms and continuum kinetic theories to study interactions between active (polar and nematic) and passive (rigid and deformable) entities. My current interests lie in the intersection of statistical physics, bifurcation theory, and fluid dynamics.
 
 
 
