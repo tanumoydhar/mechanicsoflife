@@ -1,7 +1,5 @@
 title: Tanumoy Dhar
 logo: /assets/img/profile.png
 #description: text below image
-remote_theme: benbalter/retlab
-
 show_downloads: false
 theme: jekyll-theme-minimal
