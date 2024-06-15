@@ -1,6 +1,6 @@
-# Doctoral Student
+# Journey so far
 
-I am a theorist working to understand the active transport of passive colloids and activity-driven colloidal assembly. I develop high-fidelity computational algorithms and continuum kinetic theories to study interactions between active (polar and nematic) and passive (rigid and deformable) entities.
+I am an applied mathematician by training and a statistical physicist in pursuit of my doctoral research on the role of active fluctuations, transport of passive colloids, and activity-driven colloidal assembly. I develop high-fidelity computational algorithms and continuum kinetic theories to study interactions between active (polar and nematic) and passive (rigid and deformable) entities. My current interests lie in the intersection of statistical physics, bifurcation theory and fluid dynamics.
 
 
 
@@ -20,4 +20,10 @@ The mechanism of colloidal aggregation is of significant interest in a diverse r
 1: Dhar, T. and Saintillan, D., 2024. Active transport of a passive colloid in a bath of run-and-tumble particles. Scientific Reports, 14(1), p.11844.
 
 2: Dhar, T. and Saintillan, D., 2024. Active depletion forces and agglomeration of adhesive colloids by run-and-tumble microswimmers. (In preparation).
+
+
+
+
+
+
 
