@@ -1,11 +1,11 @@
 # Doctoral Student
 
-I am a theorist working to understand the active transport of passive colloids and activity-driven colloidal assembly. I develop high fidelity computational algorithms and continuum kinetic theory to study such interactions between active (polar and nematic) and passive (rigid and deformable) entities.
+I am a theorist working to understand the active transport of passive colloids and activity-driven colloidal assembly. I develop high-fidelity computational algorithms and continuum kinetic theories to study interactions between active (polar and nematic) and passive (rigid and deformable) entities.
 
 
 
 ## Education
-- Ph.D., Engineering Mechanics (Mechanical Engineering) | University of California San Diego (ongoing)								       		
+- Ph.D., Engineering Mechanics (Mechanical Engineering) | University of California San Diego (2020 - ongoing)								       		
 - M.S., Engineering Mechanics	| JNCASR, Bangalore (2017 - 2020)	 			        		
 - B.E., Mechanical Engineering | Jadavpur University (2013 - 2017)
 
