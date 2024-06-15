@@ -3,3 +3,17 @@ logo: /assets/img/profile.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Site Footer
+footer:
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar ai-lg"
+      url: "https://scholar.google.fr/citations?user=II08p2UAAAAJ&hl=en&oi=ao"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DharTanumoy"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github fa-lg"
+      url: "http://github.com/tanumoydhar"
+
