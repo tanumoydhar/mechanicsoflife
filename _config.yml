@@ -1,7 +1,6 @@
 title: Tanumoy Dhar
 logo: /assets/img/profile.png
 #description: text below image
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-google_analytics: true
+supported colors: slate
 show_downloads: false
 theme: jekyll-theme-minimal
