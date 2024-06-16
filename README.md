@@ -1,5 +1,9 @@
 # Course of life
 
+Hi there,
+
+Welcome to my little corner of the Internet!
+
 I am a mechanical engineer and an applied mathematician by training. I am currently pursuing my doctoral research on the role of active fluctuations, the directed assembly of passive particles, and elastohydrodynamic theories of active nematics. I develop high-fidelity computational algorithms and continuum kinetic theories to study interactions between active (polar and nematic) and passive (rigid and deformable) entities. My current interests are broadly in the fields of statistical physics, soft matter, and fluid dynamics.
 
 
