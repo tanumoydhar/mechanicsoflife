@@ -5,8 +5,8 @@ I am a mechanical engineer and an applied mathematician by training. I am curren
 
 
 ## Education
-- Ph.D., Engineering Mechanics (Mechanical Engineering) | UC San Diego (2020 - ongoing)								       		
-- M.S., Engineering Mechanics	| JNCASR, Bangalore (2017 - 2020)	 			        		
+- Ph.D., Mechanical and Aerospace Engg. | UC San Diego (2020 - ongoing)								       		
+- M.S., Engineering Mechanics Unit	| JNCASR, Bangalore (2017 - 2020)	 			        		
 - B.E., Mechanical Engineering | Jadavpur University (2013 - 2017)
 
 
