@@ -26,6 +26,14 @@ The mechanism of colloidal aggregation is of significant interest in a diverse r
 2: Dhar, T. and Saintillan, D., 2024. Active depletion forces and agglomeration of adhesive colloids by run-and-tumble microswimmers. (In preparation).
 
 
+### Stability of a passive viscous droplet in a confined active nematic liquid crystal
+
+The translation and shape deformations of a passive viscous Newtonian droplet immersed in an active nematic liquid crystal under circular confinement are analyzed using a linear stability analysis. We focus on the case of a sharply aligned active nematic in the limit of strong elastic relaxation in two dimensions.\ Using an active liquid crystal model, we employ the Lorentz reciprocal theorem for Stokes flow to study the growth of interfacial perturbations as a result of both active and elastic stresses.\ Instabilities are uncovered in both extensile and contractile systems, for which growth rates are calculated and presented in terms of the dimensionless ratios of active, elastic, and capillary stresses, as well as the viscosity ratio between the two fluids. We also extend our theory to analyze the inverse scenario, namely, the stability of an active nematic droplet surrounded by a passive viscous layer.\ Our results highlight the subtle interplay of capillary, active, elastic, and viscous stresses in governing droplet stability.\ The instabilities uncovered here may be relevant to a plethora of biological active systems, from the dynamics of passive droplets in bacterial suspensions to the organization of subcellular compartments inside the cell and cell nucleus. 
+
+#### References:
+1: Dhar, T., Shelley, M. J., and Saintillan, D., 2024. Stability of a passive viscous droplet in a confined active nematic liquid crystal (to be submitted).
+
+
 
 
 
